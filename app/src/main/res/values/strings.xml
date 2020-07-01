@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IntentsManager</string>
+    <string name="syncronize">Синхронизация</string>
+    <string name="afternoon">Afternoon</string>
+    <string name="evening">Evening</string>
+    <string name="morning">Morning</string>
+</resources>
